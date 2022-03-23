@@ -1,6 +1,6 @@
 # Star Wars Dashboard
-HTML, CSS &amp; Javascript | API request
-English bellow
+HTML, CSS &amp; Javascript | API request <br>
+<h5>English bellow</h5>
 
 ## Índice
 
@@ -25,7 +25,7 @@ A Dashboard Star wars foi feita usando a API externa swapi.dev através da manip
 
 <h1> Resultado 💻 </h1> 
 
-!(https://imgur.com/a/jUj8WCi)
+< img src="https://imgur.com/a/jUj8WCi">
 
 <h1> Tecnologias Utilizadas :hammer_and_wrench: </h1> 
 
