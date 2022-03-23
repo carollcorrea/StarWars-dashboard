@@ -8,7 +8,7 @@ English bellow
 * [Descrição;](#Descrição)
 * [Resultado;](#Resultado)
 * [Tecnologias Utilizadas;](#Tecnologias-Utilizadas)
-* [Pessoas Desenvolvedoras do Projeto;(#Pessoas-Desenvolvedoras-do-Projeto)
+* [Pessoas Desenvolvedoras do Projeto](#Pessoas-Desenvolvedoras-do-Projeto)
 
 ##
 
@@ -18,14 +18,14 @@ A Dashboard Star wars foi feita usando a API externa swapi.dev através da manip
 
 <h1>Descrição :writing_hand: </h1> 
 
-    <b> HTML </b>    | Unordered List / Table
-   <b> CSS </b>      |  Baseado na estrutura Atomic Design
- <b> Javascript </b> | Utilizando o axios como cliente HTTP, estrutura de promisses para completar os cards. Para importar os dados da tabela foi usada o método append do JQuerry, em uma função assíncrona, com iteração e template string.
+<b> HTML </b> - Unordered List / Table <br>
+<b> CSS </b> - Baseado na estrutura Atomic Design <br>
+<b> Javascript </b> - Utilizando o axios como cliente HTTP, estrutura de promisses para completar os cards. Para importar os dados da tabela foi usada o método append do JQuerry, em uma função assíncrona, com iteração e template string.
 
 
 <h1> Resultado 💻 </h1> 
 
-!(https://imgur.com/a/jUj8WCi>)
+!(https://imgur.com/a/jUj8WCi)
 
 <h1> Tecnologias Utilizadas :hammer_and_wrench: </h1> 
 
