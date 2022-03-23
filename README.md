@@ -25,7 +25,7 @@ A Dashboard Star wars foi feita usando a API externa swapi.dev através da manip
 
 <h1> Resultado 💻 </h1> 
 
-![print do resultado do projeto](https://imgur.com/a/jUj8WCi) <br>
+![print do resultado do projeto](https://imgur.com/a/jUj8WCi)
 
 <h1> Tecnologias Utilizadas :hammer_and_wrench: </h1> 
 
