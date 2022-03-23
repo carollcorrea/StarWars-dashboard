@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="assets/css/reset.css">
+  <link rel="stylesheet" href="assets/css/normalize.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/menu.css">
+  <link rel="stylesheet" href="assets/css/cards.css">
+  <link rel="stylesheet" href="assets/css/table.css">
+  <link rel="stylesheet" href="assets/css/chart.css">
+
+  <title>Dashboard Star Wars</title>
+
+  <script src="https://unpkg.com/feather-icons"></script>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <div class="lateral-menu">
+      <img class="logosw" src="assets/img/menu/logo.png" />
+      <div class=menu-itens>
+        <ul>
+          <li>
+            <img src="assets/img/menu/dashboard.svg">
+            <p>Dashboard</p>
+          </li>
+          <li>
+            <img src="assets/img/menu/personagens.svg">
+            <p>Personagens</p>
+          </li>
+          <li>
+            <img src="assets/img/menu/planetas.svg">
+            <p>Planetas e Luas</p>
+          </li>
+          <li>
+            <img src="assets/img/menu/nave.svg">
+            <p>Naves Espaciais</p>
+          </li>
+          <div class="settings">
+            <i data-feather="settings"></i>
+            <p>Configurações
+            <p>
+          </div>
+      </div>
+    </div>
+
+    <div class="content">
+      <div class="cards-header">
+
+        <div class="card card-small">
+          <div class="card-content">
+            <div class="card-info">
+              <p>Personagens</p>
+              <h2 id="personagens">5</h2>
+            </div>
+            <img src="assets/img/cards/personagens-black.svg" />
+          </div>
+        </div>
+
+        <div class="card card-large">
+          <div class="card-container">
+            <div class="card-content">
+              <div class="card-info">
+                <p>Luas</p>
+                <h2 id="luas">5</h2>
+              </div>
+              <img src="assets/img/cards/luas-black.svg" />
+            </div>
+
+            <div class="card-content">
+              <div class="card-info">
+                <p>Planetas</p>
+                <h2 id="planetas">5</h2>
+              </div>
+              <img src="assets/img/cards/planetas-black.svg" />
+            </div>
+          </div>
+        </div>
+
+        <div class="card card-small">
+          <div class="card-content">
+            <div class="card-info">
+              <p>Naves</p>
+              <h2 id="naves">5</h2>
+            </div>
+            <img src="assets/img/cards/nave-black.svg" />
+          </div>
+        </div>
+      </div>
+
+      <div class="content-info">
+        <div class="table">
+          <h5>Últimos Filmes</h5>
+          <p>Conheça os lançamentos Star Wars</p>
+          <table id="filmsTable">
+            <thead>
+              <th>Título</th>
+              <th>Estréia</th>
+              <th>Diretor</th>
+              <th>Episódio</th>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+
+        <div class="chart">
+          <div id="piechart" style="width: 400px; height: 400px;"></div>
+        </div>
+      </div>
+
+      
+
+    </div>
+
+
+  </div>
+
+
+  <script>
+    feather.replace()
+  </script>
+
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"
+    integrity="sha512-qTXRIMyZIFb8iQcfjXWCO8+M5Tbc38Qi5WzdPOYZHIlZpzBHG3L3by84BBBOiRGiEb7KKtAOAs5qYdUiZiQNNQ=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>"
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="/js/index.js" />
+</body>
+
+</html>

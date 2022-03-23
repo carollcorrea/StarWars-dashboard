@@ -1,0 +1,40 @@
+.lateral-menu {
+    background: #000;
+    color: #fff;
+    width: 250px;
+    height: 100vh;
+  
+    font-size: 16px;
+    font-weight: bold;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border-top: 20px;
+  }
+
+  .logosw {
+   padding-top: 20px;
+  }
+
+  .lateral-menu ul li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px 0;
+  }
+  
+  .lateral-menu ul li img {
+    margin-bottom: 10px;
+  }
+  
+  .settings {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+  }
+  
+  .settings svg {
+    margin-right: 10px; 
+  }
