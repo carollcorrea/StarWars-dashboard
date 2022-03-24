@@ -42,3 +42,44 @@ Execução: Ana Carollina (correa.carollina@gmail.com);
 
 https://www.figma.com/file/MTmILmnLdsmesAGyGTRvV4/star-wars?node-id=0%3A1 <br>
 Design Figma by Isadora @papodedev
+
+
+## Index
+
+* [Project Summary;](#Project-Summary) 
+* [Description;](# Description)
+* [Result;](#Result)
+* [Technologies;](#Technologies)
+* [Project Developers](#Project-Developers)
+
+##
+
+<h1> Project Summary:page_facing_up: </h1> 
+
+The Star wars Dashboard was made using the swapi.dev external API by manipulating the HTML DOM with javascript
+<h1>Description :writing_hand: </h1> 
+
+<b> HTML </b> - Unordered List / Table <br>
+<b> CSS </b> - Based on the Atomic Design Methodology <br>
+<b> Javascript </b> - Using axios as HTTP client, promise structure to complete cards.JQuery's append method was used to import the dable data, in an asynchronous function, with iteration and template string.
+
+
+<h1> Result 💻 </h1> 
+
+![print do resultado do projeto](https://i.imgur.com/yhJfW2B.png)
+
+<h1> Technologies :hammer_and_wrench: </h1> 
+
+<div style='text-align:left'>
+<img align="center" alt="carol.html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" alt="carol.css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="carol.photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img align="center" alt="carol.photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> </div>
+
+
+<h1>Project Developers 👩💻 </h1>  
+
+Project & tutorial: Isadora - @papodedev <br>
+Execution: Ana Carollina (correa.carollina@gmail.com);
+
+<h1> Links :link: </h1> 
+
+https://www.figma.com/file/MTmILmnLdsmesAGyGTRvV4/star-wars?node-id=0%3A1 <br>
+Design Figma by Isadora @papodedev
