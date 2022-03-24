@@ -47,7 +47,7 @@ Design Figma by Isadora @papodedev
 ## Index
 
 * [Project Summary;](#Project-Summary) 
-* [Description;](# Description)
+* [Description;](#Description)
 * [Result;](#Result)
 * [Technologies;](#Technologies)
 * [Project Developers](#Project-Developers)
